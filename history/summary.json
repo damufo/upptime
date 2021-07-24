@@ -4,9 +4,9 @@
     "url": "https://www.fegan.org",
     "icon": "https://favicons.githubusercontent.com/www.fegan.org",
     "slug": "fegan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1055,
     "timeMonth": 1066,
     "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   },
   {
     "name": "Xesde",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/www.damufo.com",
     "slug": "damufo",
     "status": "up",
-    "uptime": "67.73%",
+    "uptime": "68.03%",
     "uptimeDay": "87.16%",
-    "uptimeWeek": "50.05%",
-    "uptimeMonth": "67.73%",
-    "uptimeYear": "67.73%",
+    "uptimeWeek": "53.47%",
+    "uptimeMonth": "68.03%",
+    "uptimeYear": "68.03%",
     "time": 1287,
     "timeDay": 1428,
     "timeWeek": 1350,
