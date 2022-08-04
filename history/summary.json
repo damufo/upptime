@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1258,
-    "timeDay": 960,
-    "timeWeek": 1181,
-    "timeMonth": 1353,
-    "timeYear": 1279,
+    "time": 1257,
+    "timeDay": 1077,
+    "timeWeek": 1147,
+    "timeMonth": 1351,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2022-07-10": 24,
       "2022-06-01": 24,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 724,
-    "timeDay": 527,
+    "timeDay": 721,
     "timeWeek": 683,
-    "timeMonth": 769,
-    "timeYear": 733,
+    "timeMonth": 763,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2022-06-01": 24,
       "2021-10-16": 20
@@ -53,16 +53,16 @@
     "icon": "https://favicons.githubusercontent.com/www.damufo.com",
     "slug": "damufo",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "97.00%",
-    "time": 1179,
-    "timeDay": 736,
-    "timeWeek": 782,
-    "timeMonth": 861,
-    "timeYear": 1169,
+    "uptimeYear": "97.01%",
+    "time": 1178,
+    "timeDay": 733,
+    "timeWeek": 775,
+    "timeMonth": 852,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2022-07-18": 126,
       "2022-06-13": 121,
@@ -93,8 +93,7 @@
       "2021-10-01": 77,
       "2021-09-08": 66,
       "2021-08-31": 34,
-      "2021-08-05": 31,
-      "2021-08-04": 18
+      "2021-08-05": 31
     }
   }
 ]
