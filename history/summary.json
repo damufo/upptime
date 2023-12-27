@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1597,
-    "timeDay": 1311,
-    "timeWeek": 1293,
-    "timeMonth": 1411,
+    "time": 1596,
+    "timeDay": 1201,
+    "timeWeek": 1259,
+    "timeMonth": 1406,
     "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-11-04": 21,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 820,
-    "timeDay": 894,
-    "timeWeek": 787,
-    "timeMonth": 815,
-    "timeYear": 815,
+    "timeDay": 696,
+    "timeWeek": 771,
+    "timeMonth": 810,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2023-05-26": 47,
       "2023-02-25": 19
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.damufo.com.ico",
     "slug": "damufo",
     "status": "down",
-    "uptime": "43.23%",
+    "uptime": "43.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 944,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-26": 31,
+      "2023-12-27": 31,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -424,8 +425,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   }
 ]
