@@ -6,17 +6,16 @@
     "slug": "fegan",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1398,
-    "timeDay": 1004,
-    "timeWeek": 1067,
-    "timeMonth": 1092,
+    "timeDay": 949,
+    "timeWeek": 1069,
+    "timeMonth": 1090,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2024-05-24": 6,
       "2024-04-16": 22,
       "2024-04-04": 41,
       "2024-03-25": 15,
@@ -36,13 +35,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 806,
-    "timeDay": 852,
-    "timeWeek": 719,
-    "timeMonth": 737,
+    "timeDay": 642,
+    "timeWeek": 687,
+    "timeMonth": 734,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-04-04": 40,
-      "2023-05-26": 47
+      "2024-04-04": 40
     }
   },
   {
@@ -51,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.damufo.com.ico",
     "slug": "damufo",
     "status": "down",
-    "uptime": "37.10%",
+    "uptime": "37.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -62,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 950,
+      "2024-05-25": 32,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -425,8 +424,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   }
 ]
